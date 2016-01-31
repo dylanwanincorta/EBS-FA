@@ -1,0 +1,1 @@
+select * FRom FA_DISTRIBUTION_HISTORY;
